@@ -20,7 +20,7 @@ Production-style research-support code: pulling macro / trade / commodity series
 | **[r-macro-trade-commodity-forecast](https://github.com/yullieyang/r-macro-trade-commodity-forecast)** | Reproducible R pipeline: 13 FRED macro / trade / commodity series → quarterly panel with implicit trade deflators and terms of trade → 8-quarter `auto.arima` forecasts for net exports, real GDP, and WTI → distributed-lag FX pass-through regression on U.S. trade prices. CI + Quarto Pages dashboard. |
 | **[cre_stress_test](https://github.com/yullieyang/cre_stress_test)** | Portfolio-demo stress-testing workflow on 100% public data (FRED + Google Mobility + Boston Zoning). Python package + R/auto.arima companion + SQLAlchemy persistence + Streamlit dashboard. pytest + CI. Personal project; does not reflect any employer's internal data or models. |
 | **[llm-research-workflow-assistant](https://github.com/yullieyang/llm-research-workflow-assistant)** | Prompt templates, sample outputs, and a human-in-the-loop checklist for using AI coding tools responsibly in recurring research workflows (data QA, code review, brief review, documentation drafting). |
-| **[yullieyang.github.io](https://yullieyang.github.io)** | Personal portfolio site (R Markdown + GitHub Pages) with bio, featured projects, and early coursework write-ups. |
+| **[yullieyang.github.io](https://yullieyang.github.io)** | Personal portfolio site (GitHub Pages) — bio, background, and featured projects. |
 | **[cardnews](https://github.com/yullieyang/cardnews)** | Applied LLM tooling demo: Claude API + Puppeteer renders a topic into a 10-slide 1080×1080 visual deck. |
 
 ## Toolbox
