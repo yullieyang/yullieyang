@@ -2,8 +2,10 @@
 
 **Quantitative analyst** building reproducible financial / economic research workflows and AI-assisted QA / documentation systems. I work at the intersection of **economics, data, and engineering** — turning macro and financial data into versioned, reviewable, decision-ready artifacts.
 
+- 💼 **Quantitative Analyst**, CoStar Group — Boston, MA (2025 – Present)
+- 🧪 **Data Scientist / Consultant**, Guidehouse — McLean, VA (2024 – 2025)
+- 🏛 **Graduate Intern** (Summer 2023), **Board of Governors of the Federal Reserve System** — Division of International Finance
 - 🎓 M.S. Business Analytics, **University of Maryland, College Park** (Dec 2023)
-- 🏛 Graduate Summer Intern (2023), **Board of Governors of the Federal Reserve System** — Division of International Finance
 - 🌏 B.A. Global Political Economy, **Waseda University**, Tokyo (2022)
 - 📍 Boston, MA
 
