@@ -5,8 +5,8 @@
 - 💼 **Quantitative Analyst**, CoStar Group — Boston, MA (2025 – Present)
 - 🧪 **Data Scientist / Consultant**, Guidehouse — McLean, VA (2024 – 2025)
 - 🏛 **Graduate Intern** (Summer 2023), **Board of Governors of the Federal Reserve System** — Division of International Finance
-- 🎓 M.S. Business Analytics, **University of Maryland, College Park** (Dec 2023)
-- 🌏 B.A. Global Political Economy, **Waseda University**, Tokyo (2022)
+- 🎓 M.S. Business Analytics, **University of Maryland, College Park** (December 2023)
+- 🌏 B.A. Global Political Economy, **Waseda University**, Tokyo (Septemeber 2022)
 - 📍 Boston, MA
 
 ## What I'm focused on
