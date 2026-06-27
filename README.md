@@ -1,17 +1,17 @@
 # Hi, I'm Yullie 👋
 
-**Quantitative analyst** building reproducible financial / economic research workflows, stress-testing tools, model-QA systems, and reviewable documentation. I work at the intersection of **economics, data, and engineering** — turning macro and financial data into versioned, reviewable artifacts. Interested in responsible use of AI coding tools to make analytical workflows more systematic and reviewable.
+**Data scientist** working on experimentation, machine learning, and AI / LLM systems — defining metrics, designing and analyzing A/B tests, and evaluating whether models (statistical or LLM-based) are reliable enough to ship. Background in regulated, high-stakes settings including the **Federal Reserve Board**, with a focus on rigor, calibration, and reproducibility.
 
 - 💼 **Quantitative Analyst**, CoStar Group — Boston, MA (2025 – Present)
 - 🧪 **Data Scientist / Consultant**, Guidehouse — McLean, VA (2024 – 2025)
 - 🏛 **Graduate Intern** (Summer 2023), **Board of Governors of the Federal Reserve System** — Division of International Finance
 - 🎓 M.S. Business Analytics, **University of Maryland, College Park** (December 2023)
-- 🌏 B.A. Global Political Economy, **Waseda University**, Tokyo (Septemeber 2022)
-- 📍 Boston, MA
+- 🌏 B.A. Global Political Economy, **Waseda University**, Tokyo (September 2022)
+- 📍 San Francisco Bay Area
 
 ## What I'm focused on
 
-Production-style research-support code: pulling macro / trade / commodity series from authoritative sources (FRED), harmonizing across frequencies, computing derived measures, producing short-horizon forecasts with documented uncertainty, and packaging deterministic QA and review workflows so a reviewer can audit every step from Git. AI coding tools may support scaffolding, documentation review, and consistency checks, but the workflow logic, assumptions, validation criteria, and final outputs remain human-reviewed.
+Experimentation, evaluation, and applied AI: designing and analyzing A/B tests (North Star metrics, power / MDE, CUPED variance reduction, guardrails); building and evaluating LLM and agentic AI systems for reliability, calibration, and evidence grounding with human-in-the-loop review; and reproducible Python / SQL analysis that is auditable end to end. The question I care about most — whether a model, statistical or LLM-based, actually does what it claims.
 
 ## Featured work
 
@@ -27,11 +27,12 @@ Production-style research-support code: pulling macro / trade / commodity series
 
 ## Toolbox
 
-- **Languages:** R (primary), Python, SQL
-- **Data & infra:** FRED, SQLite / PostgreSQL / SQLAlchemy, AWS, Azure, Tableau, Power BI
-- **Engineering:** Git, GitHub Actions, R Markdown / Quarto, Streamlit, `make`-driven pipelines, pytest, `testthat`
-- **Modeling:** ARIMA / `auto.arima`, distributed-lag regression, classification under class imbalance, SHAP explainability
-- **AI / LLM workflows:** Claude API, Claude Code for pair-programming and documentation, prompt-template design, human-in-the-loop review processes
+- **Languages:** Python, R, SQL
+- **Data & infra:** SQLite / PostgreSQL / SQLAlchemy, AWS, Azure, Power BI, Tableau, FRED
+- **Engineering:** Git, GitHub Actions, Streamlit, `make`-driven pipelines, pytest, R Markdown / Quarto
+- **Experimentation:** A/B testing, North Star / guardrail metric design, power / MDE analysis, CUPED variance reduction, confidence calibration (ECE, Brier)
+- **Modeling:** classification under class imbalance, SHAP explainability, ARIMA / `auto.arima`, distributed-lag regression
+- **AI / LLM:** LLM & RAG evaluation, agentic workflows, prompt experimentation, human-in-the-loop systems, retrieval-quality analysis, LangChain, LangGraph, Claude API, Claude Code
 
 ## How I use AI tools
 
